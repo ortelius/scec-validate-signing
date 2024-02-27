@@ -2,6 +2,17 @@ apiVersion: v1
 entries:
   scec-validate-signing:
   - apiVersion: v2
+    appVersion: 11.0.416
+    created: "2024-02-27T10:50:43.349518127Z"
+    description: Domain microservice
+    digest: f57ba2997ff2725628075224de6677e35971cb0a81e6597bd23e839ff16135e9
+    icon: https://ortelius.github.io/ortelius-charts/logo.png
+    name: scec-validate-signing
+    type: application
+    urls:
+    - https://github.com/ortelius/scec-validate-signing/releases/download/scec-validate-signing-11.0.416/scec-validate-signing-11.0.416.tgz
+    version: 11.0.416
+  - apiVersion: v2
     appVersion: 11.0.414
     created: "2024-02-26T18:56:40.313440783Z"
     description: Domain microservice
@@ -1871,4 +1882,4 @@ entries:
     urls:
     - https://github.com/ortelius/scec-validate-signing/releases/download/scec-validate-signing-11.0.7/scec-validate-signing-11.0.7.tgz
     version: 11.0.7
-generated: "2024-02-26T18:56:40.31311487Z"
+generated: "2024-02-27T10:50:43.349209023Z"
